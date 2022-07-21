@@ -1,0 +1,8 @@
+<DefaultPaths>
+  <iFolder>D:\Desktop\OneKeyShoes\ExportedObj</iFolder>
+  <oFolder>D:\Desktop\Poisson</oFolder>
+  <iFormat>obj</iFormat>
+  <oFormat>obj</oFormat>
+  <serverPath>D:\Desktop\MeshLab</serverPath>
+  <XMLScriptPath>D:\Desktop\MeshLab\ScreenedPoisson.mlx</XMLScriptPath>
+</DefaultPaths>
