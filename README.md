@@ -28,7 +28,7 @@ Instructions for 4D free-viewpoint video play: 1) print the model folder path un
 All material is made available under [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) license. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper** and **indicating any changes** that you've made.
 
 ## Acknowlege
-This project is support by [Dgene](https://www.dgene.com/) and [ShanghaiTech](https://vic.shanghaitech.edu.cn/). [DomeViewer](https://github.com/ChenFengYe/TightCap/DomeViewer) is designed to support [TightCap dataset](https://github.com/ChenFengYe/TightCap) based on Unity3D engine, which can play 4D free-viewpoint video with dynamic mesh sequences. Thanks for all authors of TightCap.
+This project is support by [DGene](https://www.dgene.com/) and [ShanghaiTech](https://vic.shanghaitech.edu.cn/). [DomeViewer](https://github.com/ChenFengYe/TightCap/DomeViewer) is designed to support [TightCap dataset](https://github.com/ChenFengYe/TightCap) based on Unity3D engine, which can play 4D free-viewpoint video with dynamic mesh sequences. Thanks for all authors of TightCap.
 
 ## Citation
 You can also put a star :star:, if the code is useful to you. If you find our code or paper useful, please consider citing:
